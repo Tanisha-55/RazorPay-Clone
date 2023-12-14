@@ -24,7 +24,7 @@ This repository contains the source code for a basic Razorpay clone website. It 
 To run the project locally:
 
 1. Clone the repository:
-   git clone [click here](https://github.com/Tanisha-55/RazorPay-Clone.git)
+   git clone [(https://github.com/Tanisha-55/RazorPay-Clone.git)](https://github.com/Tanisha-55/RazorPay-Clone.git)
 
 2. Navigate to the project directory:
   cd razorpay-clone
